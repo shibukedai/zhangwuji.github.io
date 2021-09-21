@@ -57,4 +57,4 @@
 - ★★☆ HTML/CSS/JavaScript
 - ★★☆ Python
 - ★★★ MySQL
-- ★★★ Redis
+
